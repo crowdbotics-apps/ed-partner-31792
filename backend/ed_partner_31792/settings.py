@@ -48,6 +48,10 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "django.contrib.sites",
     "course",
+    "menu",
+    "delivery_order",
+    "delivery_user_profile",
+    "driver",
 ]
 LOCAL_APPS = [
     "home",
